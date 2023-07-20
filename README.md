@@ -34,15 +34,18 @@ Splitting the Data: Finally, the data is split into training, validation, and te
 
 
 
-
-==============================================================================================================================================================
 Data Preprocessing (some important points ) It is a techinique to transform noisy ,duplicate ,incomplete inconsistent to accurate ,completeness,consistency ,complete Techiniques
+
 Data cleaning filling missing values ,smooth out noise while identifying outliers and correct inconsistencies in the data 
+
 Data integration it means to merges data from mulitiple sources into a coherent data store ,such as a data warehouse 
+
 Data reduction it is use to reduce the data size by aggregate eliminate redundant features or clustering for instance 
+
 Data Transformation it means data are trnaformed into from appropriate for ml model training such as normalization may be applied whare data are scaled to fall with in smaller range like 0.0 to 1.0 .
+
 Data Discretization it is technique transforms numeric data by mapping values to interval or concept labels it is used to reduce the numbers of values for given continuous attributes to interval form 1,2,3,4,5,6,7,8,9,10 ======> 1-4,5-8
-==========================================================================================================================================================
+
 
 
 Feature Engineering it is the process to create feature / extract hte feature form the existing features by domain knowledge to increase the performance of machine learning model 
